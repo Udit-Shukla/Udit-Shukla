@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Multiplayer Chess**
 
-- 👨‍💻 All of my projects are available at [https://udit-shukla.github.io/Portfolio/](https://udit-shukla.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://udit-shukla.github.io/Portfolio/](https://udit-shukla.github.io/myPortfolio/)
 
 - 💬 Ask me about **nextjs,react,react native, typescript,javascript**
 
